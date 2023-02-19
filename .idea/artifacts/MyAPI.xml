@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MyAPI">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyAPI</output-path>
+    <root id="archive" name="MyAPI.jar">
+      <element id="module-output" name="MyAPI" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../trilead-ssh2-1.0.0-build222.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
